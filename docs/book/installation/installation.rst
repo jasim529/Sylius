@@ -38,7 +38,7 @@ place, run the following commands:
 .. code-block:: bash
 
     $ cd acme # Move to the newly created directory
-    $ php bin/console sylius:install
+    $ php app/console sylius:install
 
 This package has the whole ``sylius/sylius`` package in vendors, so you can easily update it and focus on your custom development.
 
